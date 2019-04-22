@@ -12,7 +12,9 @@ public class EndsWith8Test {
 	public void testToString() {
 		EndsWith8 eight = new EndsWith8();
 		// add your name to the expected string, after the all the other names in the form "John Smith, "
-	assertEquals("EndsWith8 [names=Gloris Pina, Kyle Quadarella, Sam Bryan, ]", eight.toString());
+
+	assertEquals("EndsWith8 [names=Gloris Pina, Kyle Quadarella, Sam Bryan, Tyler Rego, ]", eight.toString());
+
 
 
 	}

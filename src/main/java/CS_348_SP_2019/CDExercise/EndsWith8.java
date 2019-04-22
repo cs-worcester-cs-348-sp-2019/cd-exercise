@@ -10,7 +10,11 @@ public class EndsWith8 {
 		// names+= "John Smith, ";
 		names += "Gloris Pina, ";
 		names += "Kyle Quadarella, ";
+
 		names += "Sam Bryan, ";
+
+		names += "Tyler Rego, ";
+
 	}
 
 	@Override
