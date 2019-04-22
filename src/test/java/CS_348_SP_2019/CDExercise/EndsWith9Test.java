@@ -11,7 +11,7 @@ public class EndsWith9Test {
 	public void testToString() {
 		EndsWith9 nine = new EndsWith9();
 		// add your name to the expected string, after the all the other names in the form "John Smith, "
-		assertEquals("EndsWith9 [names=Brian Soltan, ]", nine.toString());
+		assertEquals("EndsWith9 [names=Brian Soltan, Timothy Montague ]", nine.toString());
 
 	}
 

@@ -7,6 +7,7 @@ public class EndsWith9 {
 	public EndsWith9()  {
 		names = "";
 		names+= "Brian Soltan, ";
+		names+= "Timothy Montague, ";
 
 	}
 
